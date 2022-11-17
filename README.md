@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 Descrição do Teste: Desenvolver uma landing page 100% responsiva para divulgação do produto de 'Bolsa de 50% de desconto'. Aqui a ideia é usar toda criatividade mesmo, precisa conter HTML, CSS, JS ou Boostraap. Segue materiais na pasta assets/landingpage.
 
-Bonus: Hospedar a landing page em qualquer servidor como o hostgator.
+Bonus: Hospedar a landing page em qualquer servidor como o https://www.heroku.com/.
 
 Mesmo hospedando a landing page no servidor, os códigos de desenvolvimento da mesma, devem ser enviados para o e-mail danilo.araujo2@metodista.br em pasta zipada.
 
